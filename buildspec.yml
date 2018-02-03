@@ -1,11 +1,10 @@
-{!@#$%$&!&*(@^&$()&*()$@^&()@^&#!%#!&*(@!5689
-&%#_)^**%^
 version: 0.2
 
 phases:
   build:
     commands:
       - echo Build started on `date`
+      - echo CRAIG GRAIG CRAIG GRAIG CRAIG GRAIG CRAIG GRAIG CRAIG GRAIG CRAIG GRAIG CRAIG GRAIG CRAIG GRAIG CRAIG GRAIG CRAIG GRAIG CRAIG GRAIG CRAIG GRAIG CRAIG GRAIG
       - mvn test
   post_build:
     commands:
